@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "name": "Hemaraju",
+      "email": "hemarajud@gmail.com",
+      "password": "hemaraju",
+      "mobile": "7036071321",
+      "id": 1
+    },
+    {
+      "name": "kumar",
+      "email": "kumar@gmail.com",
+      "password": "kumar123",
+      "mobile": "7879556578",
+      "id": 2
+    },
+    {
+      "name": "saranya",
+      "email": "saranya@gmail.com",
+      "password": "saranya123",
+      "mobile": "7878739374",
+      "id": 3
+    },
+    {
+      "name": "prakash",
+      "email": "prakash@gmail.com",
+      "password": "prakash133",
+      "mobile": "998932678",
+      "id": 4
+    },
+    {
+      "name": "Ramaraju",
+      "email": "ram@gmail.com",
+      "password": "ramrarj1234",
+      "mobile": "7837383778",
+      "id": 8
+    },
+    {
+      "name": "mahesh",
+      "email": "mahesh@gmail.com",
+      "password": "mahesh",
+      "mobile": "8399383833",
+      "id": 9
+    },
+    {
+      "name": "nageswar",
+      "email": "nagesh@gmail.com",
+      "password": "nagesh",
+      "mobile": "9000743637",
+      "id": 10
+    }
+  ]
+}
